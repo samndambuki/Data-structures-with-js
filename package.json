@@ -1,0 +1,12 @@
+{
+  "name": "brainstorming",
+  "version": "1.0.0",
+  "description": "//node inspect index - for debugger //c - for continue //repl - get inside",
+  "main": "reverse.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
