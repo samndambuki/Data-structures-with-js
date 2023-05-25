@@ -5,5 +5,8 @@
 // }
 
 // result()
-var result = Math.abs(0.1+0.2)
-console.log(result===0.3)
+// var result = Math.abs(0.1+0.2)
+// console.log(result===0.3)
+
+result = 0/0
+console.log(result)
