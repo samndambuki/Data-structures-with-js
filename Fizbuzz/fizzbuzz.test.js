@@ -1,5 +1,3 @@
-// fizzbuzz.test.js
-
 const {fizzBuzz} = require('./fizzbuzz');
 
 describe('FizzBuzz', () => {
